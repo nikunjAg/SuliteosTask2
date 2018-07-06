@@ -8,3 +8,7 @@ Task2
 ![screenshot_20180706-123235 1](https://user-images.githubusercontent.com/40520815/42365801-237717de-811d-11e8-97e8-9d111ec6b89b.png)
 ![screenshot_20180706-123230 1](https://user-images.githubusercontent.com/40520815/42365816-2d993f6c-811d-11e8-9fe9-da0610c48b46.png)
 ![screenshot_20180706-123232 1](https://user-images.githubusercontent.com/40520815/42365830-34cbf8f6-811d-11e8-935b-89c66e4ce9b9.png)
+![screenshot_20180706-131242 2](https://user-images.githubusercontent.com/40520815/42366501-f923db28-811e-11e8-9ca6-c03f196a63ec.png)
+![screenshot_20180706-131620 1](https://user-images.githubusercontent.com/40520815/42366474-edb70c92-811e-11e8-948d-d7890b9f3c73.png)
+![20180706_130730 1](https://user-images.githubusercontent.com/40520815/42366328-88964972-811e-11e8-8c78-f2e728ad253e.jpg)
+![screenshot_20180706-131642 1](https://user-images.githubusercontent.com/40520815/42366459-e4069c1c-811e-11e8-9c30-2575c9f865d7.png)
